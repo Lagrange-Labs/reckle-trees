@@ -5,7 +5,7 @@ trees' distinguishing feature is their support for succinct batch proofs that ar
 
 This repository contains the circuits from the paper:
 
-["_Reckle Trees: Updatable Merkle Batch Proofs with Applications_,"](reckle)
+["_Reckle Trees: Updatable Merkle Batch Proofs with Applications_,"](http://lagrange.dev/reckle-trees)
 [Charalampos Papamanthou](https://twitter.com/chbpap),
 [Shravan Srinivasan](https://github.com/sshravan),
 [Nicolas Gailly](https://github.com/nikkolasg),
