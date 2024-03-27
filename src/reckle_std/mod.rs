@@ -6,6 +6,6 @@ pub mod binary_pp;
 
 pub mod provers;
 
-// pub mod binary_tree;
+pub mod binary_tree;
 
-// pub mod benches;
+pub mod benches;
