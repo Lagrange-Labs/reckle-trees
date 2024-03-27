@@ -4,7 +4,7 @@ pub mod binary_circuits;
 
 pub mod binary_pp;
 
-// pub mod provers;
+pub mod provers;
 
 // pub mod binary_tree;
 
